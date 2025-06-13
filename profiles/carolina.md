@@ -1,8 +1,8 @@
 ---
 name: Carolina
 age: '27'
-liked: false
-matched: true
+liked: true
+matched: false
 tags: ''
 what_are_you_looking_for: ''
 your_impressions: ''
