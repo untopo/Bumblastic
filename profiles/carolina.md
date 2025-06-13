@@ -7,6 +7,6 @@ tags: ''
 what_are_you_looking_for: ''
 your_impressions: ''
 conversation_flow: ''
-what_attracted_you: ''
+what_attracted_you: Lips
 vibe: ''
 ---
